@@ -62,6 +62,15 @@ Simulation trajectories were visualized using OVITO.
 
 ---
 
+
+## Simulation Snapshot
+
+The image below shows instability in the lithium crystal during Molecular Dynamics simulation using the Lennard-Jones potential.
+
+This demonstrated that Lennard-Jones is not physically suitable for metallic lithium systems.
+
+![Lithium MD Simulation](images/lithium_structure_LJ.png)
+
 ## Author
 
 Kashmira Kudche

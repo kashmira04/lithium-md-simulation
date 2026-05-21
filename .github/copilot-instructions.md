@@ -1,4 +1,4 @@
-# AI Coding Guidelines for Lithium MD Project
+#Guidelines for Lithium MD Project
 
 ## Project Overview
 This is a molecular dynamics simulation project for lithium crystal structures using the Atomic Simulation Environment (ASE). The workflow involves creating crystal structures, relaxing them, and running MD simulations with Lennard-Jones potentials.
